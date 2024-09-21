@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstore=self.webpackChunkstore||[]).push([[76],{76:(A,p,s)=>{s.r(p),s.d(p,{FeatureModule:()=>P});var d=s(583),t=s(639),n=(s(979),s(661),s(665));s(841);let P=(()=>{class r{}return r.\u0275fac=function(o){return new(o||r)},r.\u0275mod=t.oAB({type:r}),r.\u0275inj=t.cJS({imports:[[d.ez,n.UX]]}),r})()}}]);
